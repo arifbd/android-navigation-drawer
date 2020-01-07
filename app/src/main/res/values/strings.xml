@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="navigation_drawer_open">navigation-drawer_open</string>
+    <string name="navigation_drawer_close">navigation-drawer-close</string>
+    <string name="profile_photo">profile photo</string>
+    <string name="dummy_name">Mr Unknown</string>
+    <string name="navigationview">NavigationView</string>
+</resources>
